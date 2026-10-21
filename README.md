@@ -8,12 +8,12 @@ A complete, mobile-friendly GitHub Pages website. No framework or build process 
 2. Upload **all the contents of this folder**, including `index.html`, `reveal.html`, `script.js`, `styles.css` and `assets/`. Keep the folder structure. The `index.html` file must be at the **repository root**.
 3. In the repository, go to **Settings → Pages**.
 4. Under **Build and deployment**, select **Deploy from a branch**; choose `main` and `/(root)`, then **Save**.
-5. The invitation will be available at `https://YOUR-USERNAME.github.io/noob-mystery-escape/`. If you choose a different repository name, replace the last part accordingly.
+5. The invitation will be available at `https://YOUR-USERNAME.github.io/noob-mystery-escape-upgrade/`. If you choose a different repository name, replace the last part accordingly.
 
 ## Share the surprise safely
 
 - **Send Noob only the main invitation URL** (ending in `/`).
-- **Keep the reveal link to yourself until the actual reveal**: `https://YOUR-USERNAME.github.io/noob-mystery-escape/reveal.html`.
+- **Keep the reveal link to yourself until the actual reveal**: `https://YOUR-USERNAME.github.io/noob-mystery-escape-upgrade/reveal.html`.
 - When you're ready, hand Noob your phone with the reveal page open, or send her that second URL. She taps **Open the surprise** to see **Langkawi** and the flight from Penang at **1:30 PM**.
 - Do not share `reveal.html` early. Because GitHub Pages is a public static site, **this is a surprise, not a secure lock**: someone who guesses the URL or browses the public repository can see the destination. The main invitation itself does not link to or mention `reveal.html`.
 
